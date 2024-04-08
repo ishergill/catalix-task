@@ -1,0 +1,1149 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  cursor: default;
+}
+
+.mainPage{
+  /* Frame 71 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  width: 1276.44px;
+  height: 889px;
+ 
+}
+
+.mainPage > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+
+.sidebarFrame{
+  /* Frame 64 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 17px 8.88889px 8.88889px 14px;
+  gap: 8.89px;
+
+  width: 308.22px;
+  height: 825.89px;
+}
+
+.sidebarFrame > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.sidebar{
+  /* Sidebar */
+
+/* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10.222px 0px 0 0 ;
+  gap: 48px;
+  isolation: isolate;
+
+  width: 285.33px;
+  min-width: 285.33px;
+  height: 800px;
+  min-height: 800px;
+
+    /* Slate-Green/Normal */
+  background: #2F667F;
+  box-shadow: 8.88889px 8.88889px 12.6222px rgba(0, 0, 0, 0.25);
+  border-radius: 35.5556px;
+
+}
+
+.sidebar > * {
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.sidebarIcon{
+  /* Sidebar Icon */
+
+  position: relative;
+  width: 40px;
+  height: 40px;
+  left: 100.44px;
+  top: 10px;
+
+}
+
+.sidebarIcon > * {
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  z-index: 2;
+
+}
+
+.logo{
+  /* Frame 43 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 10.67px;
+
+  width: 230.22px;
+  height: 47.11px;
+
+}
+
+.logo > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  z-index: 0;
+
+}
+
+.logoIcon{
+  /* Iconex/Light/Box 3 */
+
+  width: 42.67px;
+  height: 42.67px;
+
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+}
+
+.icon{
+  /* Iconex/Light/Box 2 */
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+}
+
+.box{
+  /* Box 2 */
+
+  position: absolute;
+  width: 35.56px;
+  height: 35.56px;
+  left: 3.56px;
+  top: 3.56px;
+
+}
+
+.logoVector{
+  /* Vector 156 */
+
+  position: absolute;
+  width: 35.56px;
+  height: 35.56px;
+  left: 3.56px;
+  top: 3.56px;
+
+  /* Light-gray/Light */
+  /* border: 2.66667px solid #FEFEFE; */
+
+}
+
+.logoText{
+  /* Catalix */
+
+  width: 176.89px;
+  height: 47.11px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 42.6667px;
+  line-height: 0px;
+  /* or 0% */
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+
+}
+
+.logoText > *{
+    /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+
+/* Nav Panel */
+
+.navPanel{
+  /* Frame 41 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 9.78px;
+
+  width: 236.44px;
+  height: 350.22px;
+
+}
+
+.navPanel > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  z-index: 1;
+
+}
+
+.navPanelTab{
+  /* Sidebar-tab */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 22.2222px;
+  gap: 15.11px;
+
+  width: 200.44px;
+  height: 62.22px;
+
+  border-radius: 17.7778px;
+
+}
+
+.navPanelTab > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+}
+
+.navLogo{
+  width: 21.57px;
+  height: 20.67px;
+
+}
+
+.navLogo{
+  /* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+position: relative;
+
+}
+
+.home{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+}
+
+.homeIcon{
+  /* Home */
+
+  position: absolute;
+  width: 17.07px;
+  height: 17.97px;
+  left: 2.25px;
+  top: 1.35px;
+
+  /* Light-tint/Light */
+  /* border: 1.34783px solid #FEFEFD; */
+}
+
+.navText{
+  /* Home */
+
+  width: 54px;
+  height: 18px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17.7778px;
+  line-height: 18px;
+  /* identical to box height, or 100% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+
+}
+
+.navText > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+}
+
+.navPanelTabActive{
+  background: #539BBB;
+}
+
+.controlsPanel{
+  /* Frame 42 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 12.4444px 0px;
+
+  /* position: absolute; */
+  width: 236.44px;
+  height: 149.33px;
+  /* left: 24px;
+  top: 632px; */
+
+  border-top: 0.888889px solid #FFFFFF;
+
+}
+
+.controlsPanel > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+  z-index: 3;
+
+}
+
+
+.dashboardFrame{
+  /* Frame 70 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 28px;
+
+  width: 940.22px;
+  height: 832px;
+}
+
+.dashboardFrame > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+
+}
+
+.textField{
+  /* Text field
+
+Use a text field when someone needs to enter text into a UI, such as filling in contact or payment information.
+
+🛠 Additional options
+Support text - you can toggle supporting text between hide and show.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+position: relative;
+width: 407.95px;
+height: 34.67px;
+left: 71.58px;
+top: 44.45px;
+
+border-radius: 2.47619px 2.47619px 0px 0px;
+
+box-sizing: border-box;
+
+/* Auto layout */
+gap: 6.19px;
+
+/* M3/sys/light/outline */
+border: 0.619048px solid #79747E;
+border-radius: 2.47619px;
+
+
+  & > *{
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+    z-index: 4;
+
+  }
+
+}
+
+
+
+.stateLayer{
+  /* state-layer */
+
+/* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 2.47619px 0px;
+
+  width: 407.95px;
+  height: 34.67px;
+
+  border-radius: 2.47619px 2.47619px 0px 0px;
+
+}
+
+.stateLayer > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 1;
+
+}
+
+.leadingIcon{
+  /* leading-icon
+
+Icon buttons display actions in a compact layout. Icon buttons can represent opening actions such as opening an overflow menu or search, or represent binary actions that can be toggled on and off, such as favorite or bookmark.
+
+Icon buttons can be grouped together or they can stand alone.
+
+Standard Icon buttons are low-emphasis buttons.
+They are used for the lowest priority actions, especially when presenting multiple options.
+
+Icon buttons can be placed on a variety of backgrounds. Until the button is interacted with, its container isn’t visible.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 6.19px;
+
+width: 29.71px;
+height: 29.71px;
+
+}
+
+.leadingIcon > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+}
+
+.content{
+  /* content */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2.47619px 0px;
+  isolation: isolate;
+
+  width: 348.52px;
+  height: 29.71px;
+
+}
+.content > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+
+}
+
+.inputText{
+  /* input-text */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+
+  width: 208px;
+  height: 13px;
+
+}
+
+.inputText > input{
+  /* input-text */
+
+  width: 208px;
+  height: 13px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 11.1429px;
+  line-height: 12px;
+  margin-top: 10px;
+
+  /* M3/sys/light/on-surface */
+  color: #1D1B20;
+  border: none;
+
+}
+
+.labelText{
+  /* label-text */
+
+/* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 2.47619px;
+
+  position: relative;
+  width: 35.95px;
+  height: 13px;
+  left: -22.29px;
+  top: -27.43px;
+
+  /* M3/sys/light/surface */
+  background: #FEF7FF;
+
+}
+.labelText > *{
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  z-index: 1;
+
+}
+
+.labelText > p{
+  /* label-text */
+
+  width: 31px;
+  height: 13px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 8.66667px;
+  line-height: 12px;
+  /* identical to box height, or 143% */
+
+  /* brand/slate-green-light */
+  color: #539BBB;
+}
+.panel{
+  display: flex;
+  justify-content: space-between;
+}
+.userControls{
+  /* Frame 76 */
+
+/* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 13px;
+
+  position: relative;
+  /* width: 175.02px; */
+  height: 41.01px;
+  left: 9px;
+  top: 38px;
+
+  & > *{
+    /* Inside auto layout */
+  flex: none;
+  order: 5;
+  flex-grow: 0;
+  z-index: 5;
+
+  }
+
+  & > .profile{
+    margin-top: 15px;
+  }
+
+}
+
+.userOptions {
+  /* Frame 360 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+padding: 0px;
+gap: 9.83px;
+
+/* width: 899px; */
+height: 39.33px;
+margin-top: 70px;
+
+}
+
+.userOptionsButton{
+  border-radius: 98.335px;
+  border: 0.98335px solid #6C6F6B;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9.8335px 23.6004px 9.8335px 15.7336px;
+  gap: 7.87px;
+cursor: pointer;
+  /* width: 189.9px; */
+  height: 25.33px;
+
+  & > img{
+      /* icon
+
+  add, create, new, plus, +
+  */
+
+  width: 17.7px;
+  height: 17.7px;
+
+  }
+
+  & > p{
+    /* label-text */
+
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17.7003px;
+  line-height: 20px;
+  /* M3/sys/light/on-primary */
+  white-space: nowrap;
+
+  }
+
+}
+.createButton{
+  background: #2F667F;
+  border: none;
+  color: #FFFFFF;
+}
+.slateButton{
+  color: #6C6F6B;
+}
+.greenButton{
+  color: #2F667F;
+}
+
+.topStats{
+  /* Group 289209 */
+
+width: 900.04px;
+height: 134.33px;
+display: flex;
+justify-content: space-between;
+gap: 2.2rem;
+ 
+margin-top: 2rem;
+
+& > *{
+    /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  z-index: 1;
+  }
+
+}
+
+/* Top Stats card */
+.quotation{
+  /* Quotation */
+
+  position: relative;
+  width: 207.82px;
+  height: 134.33px;
+  left: 0px;
+  top: 0;
+
+  filter: drop-shadow(0px 0px 4.13151px rgba(109, 109, 109, 0.5));
+  border-radius: 10.3288px;
+  overflow: hidden;
+  border-radius: 7.902px;
+
+}
+
+.card1{
+  background: #8EBAE3;
+  color: #FFFFFF;
+}
+.card2{
+  background: #14827B;
+  color: #FFFFFF;
+}
+.card3{
+  background: #FFFFFF;
+  color: black; 
+}
+.card4{
+  background: #FF4F52;
+  color: #FFFFFF;
+}
+
+.path{
+
+  box-sizing: border-box;
+
+  position: absolute;
+  left: -0.76%;
+  right: -0.84%;
+  top: 14.71%;
+  bottom: -1.18%;
+
+  /* background: rgba(121, 174, 212, 0.5); */
+  /* border: 1.5804px solid #589CED; */
+  z-index: -1;
+
+}
+
+.figure{
+  /* 1.1921 */
+
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 23.706px;
+line-height: 28px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: center;
+
+}
+
+.arrow{
+  /* Icons/10x10/White/Arrow Up */
+
+position: relative;
+top: 10.29%;
+width: 12px;
+
+}
+
+.figureFlex{
+  position: absolute;
+  height: 28px;
+  left: 9.51%;
+  right: 61.62%;
+  top: calc(50% - 28px/2 - 1.8px);
+
+  display: flex;
+  width: 200px;
+  gap: 1rem;
+}
+
+.currencyAmt{
+
+  position: absolute;
+  height: 12px;
+  left: 9.51%;
+  right: 70.28%;
+  top: calc(49% - 12px/2 + 45.51px);
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.4824px;
+  line-height: 12px;
+  /* identical to box height, or 125% */
+  display: flex;
+  align-items: center;
+
+  opacity: 0.8;
+  white-space: nowrap;
+}
+
+.title{
+  /* EUR/USD */
+
+position: absolute;
+height: 20px;
+left: 9.51%;
+right: 54.41%;
+top: calc(43% - 20px/2 - 45.31px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: center;
+letter-spacing: 0.3951px;
+text-transform: uppercase;
+white-space: nowrap;
+
+}
+
+.subtitle{
+
+  position: absolute;
+  height: 12px;
+  left: 9.51%;
+  right: 60.18%;
+  top: calc(48% - 12px/2 - 29.56px);
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.4824px;
+  line-height: 12px;
+  /* identical to box height, or 125% */
+  display: flex;
+  align-items: center;
+opacity: .7;
+}
+
+.base{
+  /* +0.0015 (+0.13%) */
+
+position: absolute;
+height: 16px;
+left: 9.51%;
+right: 45.26%;
+top: calc(50% - 16px/2 + 19.85px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 11.0628px;
+line-height: 16px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+white-space: nowrap;
+
+mix-blend-mode: normal;
+opacity: 0.85;
+
+}
+
+.middleStats{
+  /* Frame 358 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10.81px;
+
+width: 915.5px;
+height: 238.45px;
+margin-top: 1.5rem;
+
+
+  & > *{/* Inside auto layout */
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  z-index: 2;
+  }
+}
+
+.middleStatsCard{
+  /* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 21.614px;
+gap: 3.24px;
+isolation: isolate;
+
+width: 260px;
+height: 180px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 4px rgba(109, 109, 109, 0.5);
+border-radius: 10px;
+font-family: 'Poppins';
+
+& > *{/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+& > .middleStatsDot{
+  position: relative;
+  bottom: 70px;
+  left: 235px;
+}
+
+}
+
+.middleStatsTitle{
+  margin-top: -10px;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.middleStatsContent{
+  width: 95%;
+  margin-top: -30px;
+  font-weight: 300;
+  opacity: .8;
+}
+
+.middleStatsHeading{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 0;
+  height: 25px;
+  
+
+  & > .heading {
+    line-height: 0.8;
+    padding: 0;
+  }
+
+
+}
+
+.bottomStats{
+  /* Group 289210 */
+
+  width: 920px;
+  height: 300.63px;
+  margin-top: 10px;
+
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+.statsTable{
+  padding: 1rem;
+}
+
+.statsControl{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pageviews{
+  outline: none;
+  border: none;
+  font-weight: 400;
+  font-size: 11px;
+  opacity: .8;
+}
+.durationControl{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.statsButton{
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  padding: 4px 8px;
+  border-left: none;
+  font-weight: 500;
+  opacity: .7;
+  font-size: 12px;
+  
+}
+.statsButton:hover {
+  background: #A2D2FC;
+  cursor: pointer;
+}
+.leftButton{
+  border-left: 1px solid rgba(0, 0, 0, 0.4);
+  border-radius: 4px 0 0 4px;
+}
+
+.rightButton{
+  border-radius: 0 4px 4px 0;
+}
+
+.selectedButton{
+  background: #A2D2FC;
+
+}
+.selectPeriod{
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  padding: 4px 8px;
+  border-radius: 4px;
+  outline: none;
+  opacity: .4;
+  font-size: 11px;
+  font-weight: 500;
+}
+
+hr{
+  width: 920px;
+  position: relative;
+  right: 18px;
+  top: 4px;
+  border: 0.5px solid rgba(0, 0, 0, 0.2);
+}
+
+.tableContainer{
+  height: 230px;
+  overflow-y: scroll;
+}
+
+.statsColHead{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+   align-items: flex-end;
+}
+
+.statsHeadingTitle{
+  font-family: Poppins;
+  font-size: 10.83px;
+  font-weight: 500;
+  line-height: 15.47px;
+  text-align: right;
+  margin-bottom: -10px;
+  opacity: .8;
+}
+
+.statsHeadingNumber{
+    font-family: Poppins;
+  font-size: 13.93px;
+  font-weight: 500;
+  line-height: 23.21px;
+  text-align: right;  
+  margin-bottom: -2px;
+  opacity: .8;
+
+}
+
+.statsHeadingChart{
+  width: 71.18px;
+height: 18.68px;
+}
+
+.pageName{
+  font-family: Poppins;
+font-size: 10.83px;
+font-weight: 500;
+line-height: 15.47px;
+text-align: left;
+opacity: .7;
+}
+
+.data{
+  font-family: Poppins;
+  font-size: 10.83px;
+  font-weight: 500;
+  line-height: 15.47px;
+  text-align: right;
+opacity: .6;
+
+}
+
+.dataPercent{
+  font-family: Poppins;
+  font-size: 10.83px;
+  font-weight: 500;
+  line-height: 15.47px;
+  text-align: right;
+  color: #000;
+  opacity: .6;
+
+}
+
+th, td{
+  padding-inline: 10px;
+}
+
+td > *{
+  display: inline-block;
+}
+
+/* Hide the default scrollbar */
+::-webkit-scrollbar {
+  width: 10px; /* Change width as needed */
+  height: 10px; /* Change height as needed for horizontal scrollbar */
+}
+
+/* Style the scrollbar track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light grey track color */
+  border-radius: 5px; /* Add rounded corners */
+}
+
+/* Style the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background: #888; /* Darker grey thumb color */
+  border-radius: 5px; /* Add rounded corners */
+  cursor: pointer; /* Show hand cursor on hover */
+}
+
+/* Style the scrollbar buttons (optional) */
+::-webkit-scrollbar-button {
+  display: none; /* Hide buttons by default */
+}
+
+/* Optional: Show buttons on hover */
+::-webkit-scrollbar:hover {
+  ::-webkit-scrollbar-button {
+    display: block; /* Reveal buttons on hover */
+  }
+}

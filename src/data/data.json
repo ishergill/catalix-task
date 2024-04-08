@@ -1,0 +1,121 @@
+{
+    "views" : {
+        "Page_Views": "479,625",
+        "Unique_Page_Views": "367,821",
+        "Avg_Time_on_Page": "00:02:58",
+        "Extrances": "413,207",
+        "Exit_%": "42.15",
+        "Page_Value": "23,647"
+    },
+
+    "pages": {
+        "defectArrivalRate": {
+            "pageName": "Defect Arrival Rate",
+            "pageViews": "454,201",
+            "uniquePageViews": "359,125",
+            "avgTimeOnPage": "00:03:07",
+            "extrances": "401,322",
+            "exit": "40.89",
+            "pageValue": "22,094"
+        },
+        "fixedRate": {
+            "pageName": "Fixed Rate",  
+            "pageViews": "481,369",
+            "uniquePageViews": "368,542",
+            "avgTimeOnPage": "00:02:52",
+            "extrances": "417,116",
+            "exit": "41.23",
+            "pageValue": "24,502"
+        },
+        "cycleTime": {
+            "pageName": "Cycle Time",
+            "pageViews": "496,827",
+            "uniquePageViews": "375,983",
+            "avgTimeOnPage": "00:03:10",
+            "extrances": "428,918",
+            "exit": "38.97",
+            "pageValue": "21,839"
+        },
+        "leadTime": {
+            "pageName": "Lead Time",
+            "pageViews": "507,204",
+            "uniquePageViews": "382,756",
+            "avgTimeOnPage": "00:03:01",
+            "extrances": "435,764",
+            "exit": "43.12",
+            "pageValue": "25,316"
+        },
+        "newFeatures": {
+            "pageName": "New Features",
+            "pageViews": "475,108",
+            "uniquePageViews": "370,982",
+            "avgTimeOnPage": "00:03:20",
+            "extrances": "409,437",
+            "exit": "39.52",
+            "pageValue": "23,021"
+        },
+        "readyFeatures": {
+            "pageName": "Ready Features",
+            "pageViews": "489,235",
+            "uniquePageViews": "378,675",
+            "avgTimeOnPage": "00:02:55",
+            "extrances": "422,501",
+            "exit": "42.85",
+            "pageValue": "24,799"
+        },
+        "upcomingFeatures": {
+            "pageName": "Upcoming Features",
+            "pageViews": "463,874",
+            "uniquePageViews": "366,283",
+            "avgTimeOnPage": "00:03:12",
+            "extrances": "396,724",
+            "exit": "39.38",
+            "pageValue": "22,374"
+        },
+        "plannedEvents": {
+            "pageName": "Planned Events",
+            "pageViews": "482,536",
+            "uniquePageViews": "371,895",
+            "avgTimeOnPage": "00:03:05",
+            "extrances": "415,288",
+            "exit": "41.79",
+            "pageValue": "24,051"
+        },
+        "plannedEvents1": {
+            "pageName": "Planned Events",
+            "pageViews": "497,683",
+            "uniquePageViews": "383,762",
+            "avgTimeOnPage": "00:02:57",
+            "extrances": "426,370",
+            "exit": "42.32",
+            "pageValue": "25,607"
+        },
+        "plannedEvents2": {
+            "pageName": "Planned Events",
+            "pageViews": "505,712",
+            "uniquePageViews": "390,123",
+            "avgTimeOnPage": "00:03:18",
+            "extrances": "432,819",
+            "exit": "40.11",
+            "pageValue": "23,729"
+        },
+        "plannedEvents3": {
+            "pageName": "Planned Events",
+            "pageViews": "490,823",
+            "uniquePageViews": "378,906",
+            "avgTimeOnPage": "00:02:49",
+            "extrances": "424,502",
+            "exit": "41.45",
+            "pageValue": "24,934"
+        },
+        "plannedEvents4": {
+            "pageName": "Planned Events",
+            "pageViews": "473,274",
+            "uniquePageViews": "365,827",
+            "avgTimeOnPage": "00:03:24",
+            "extrances": "411,229",
+            "exit": "42.67",
+            "pageValue": "23,475"
+        }
+    }
+}
